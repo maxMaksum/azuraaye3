@@ -26,6 +26,7 @@ import com.azura.protect.NativeIntegrity
 class MainActivity : ComponentActivity() {
 
     private var isRecognizerReady by mutableStateOf(false)
+    private var recognizerError by mutableStateOf<String?>(null)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -52,11 +53,13 @@ class MainActivity : ComponentActivity() {
 
                 withContext(Dispatchers.Main) {
                     isRecognizerReady = true
+                    recognizerError = null
                 }
             } catch (e: Exception) {
                 e.printStackTrace()
                 withContext(Dispatchers.Main) {
                     isRecognizerReady = false
+                    recognizerError = e.message ?: "Unknown error during FaceRecognizer initialization"
                 }
             }
         }
@@ -64,7 +67,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             CrashcourseTheme {
                 if (!isRecognizerReady) {
-                    SplashScreen()
+                    SplashScreen(error = recognizerError)
                 } else {
                     MainScreen()
                 }
@@ -79,7 +82,7 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun SplashScreen() {
+fun SplashScreen(error: String? = null) {
     Box(
         modifier = Modifier
             .fillMaxSize()
@@ -90,6 +93,10 @@ fun SplashScreen() {
             CircularProgressIndicator()
             Spacer(Modifier.height(16.dp))
             Text("Initializing AzuraTime...", style = MaterialTheme.typography.bodyLarge)
+            if (error != null) {
+                Spacer(Modifier.height(16.dp))
+                Text("Error: $error", color = MaterialTheme.colorScheme.error)
+            }
         }
     }
 }

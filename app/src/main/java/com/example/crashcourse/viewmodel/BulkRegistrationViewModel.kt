@@ -15,7 +15,9 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import com.example.crashcourse.model.ProcessResult
 
-class BulkRegistrationViewModel : ViewModel() {
+class BulkRegistrationViewModel(
+    private val faceViewModel: FaceViewModel
+) : ViewModel() {
     private val _state = MutableStateFlow(ProcessingState())
     val state: StateFlow<ProcessingState> = _state.asStateFlow()
 
@@ -171,8 +173,23 @@ class BulkRegistrationViewModel : ViewModel() {
                 photoSize = photoResult.originalSize
             )
 
+        // Save to database using FaceViewModel
+        faceViewModel.registerFace(
+            studentId = student.studentId,
+            name = student.name,
+            embedding = embedding,
+            photoUrl = photoPath,
+            className = student.className ?: "",
+            subClass = student.subClass ?: "",
+            grade = student.grade ?: "",
+            subGrade = student.subGrade ?: "",
+            program = student.program ?: "",
+            role = student.role ?: "",
+            onSuccess = {},
+            onDuplicate = {}
+        )
+
         return try {
-            // In a real app, save to database here
             ProcessResult(
                 studentId = student.studentId,
                 name = student.name,

@@ -37,9 +37,18 @@ import kotlinx.coroutines.launch
 @Composable
 fun BulkRegistrationScreen(
     faceViewModel: FaceViewModel = viewModel(),
-    bulkViewModel: BulkRegistrationViewModel = viewModel()
 ) {
     val context = LocalContext.current
+    val bulkViewModel: BulkRegistrationViewModel = viewModel(factory = object : androidx.lifecycle.ViewModelProvider.Factory {
+        override fun <T : androidx.lifecycle.ViewModel> create(modelClass: Class<T>): T {
+            if (modelClass.isAssignableFrom(BulkRegistrationViewModel::class.java)) {
+                @Suppress("UNCHECKED_CAST")
+                return BulkRegistrationViewModel(faceViewModel) as T
+            }
+            throw IllegalArgumentException("Unknown ViewModel class")
+        }
+    })
+
     val bulkState by bulkViewModel.state.collectAsState()
     val coroutineScope = rememberCoroutineScope()
 

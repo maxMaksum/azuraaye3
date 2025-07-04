@@ -11,8 +11,8 @@ object BitmapUtils {
     private const val INPUT_SIZE = 160  // or your FaceNet input
     private const val BYTES_PER_CHANNEL = 4
 
-    /** Convert YUV Image → RGB Bitmap → crop→rotate→resize→FloatBuffer */
-    fun preprocessFace(image: Image, boundingBox: Rect, rotation: Int): ByteBuffer {
+    /** Convert YUV Image → RGB Bitmap → crop→rotate→resize→FloatArray */
+    fun preprocessFace(image: Image, boundingBox: Rect, rotation: Int): FloatArray {
         // 1) Convert to Bitmap (YUV→RGB)
         val bitmap = yuvToRgb(image)
 
@@ -25,27 +25,24 @@ object BitmapUtils {
         val top    = boundingBox.top.coerceAtLeast(0)
         val width  = boundingBox.width().coerceAtMost(rotated.width  - left)
         val height = boundingBox.height().coerceAtMost(rotated.height - top)
-        val faceBmp = Bitmap.createBitmap(rotated, left, top, width, height)
+        val cropped = Bitmap.createBitmap(rotated, left, top, width, height)
 
-        // 4) Resize to model input
-        val inputBmp = faceBmp.scale(INPUT_SIZE, INPUT_SIZE)
+        // 4) Resize to model input size
+        val inputSize = INPUT_SIZE
+        val resized = Bitmap.createScaledBitmap(cropped, inputSize, inputSize, true)
 
-        // 5) Normalize pixels to [-1,1] and pack into ByteBuffer
-        val buffer = ByteBuffer.allocateDirect(INPUT_SIZE * INPUT_SIZE * 3 * BYTES_PER_CHANNEL)
-            .order(ByteOrder.nativeOrder())
-        val intVals = IntArray(INPUT_SIZE * INPUT_SIZE)
-        inputBmp.getPixels(intVals, 0, INPUT_SIZE, 0, 0, INPUT_SIZE, INPUT_SIZE)
-        var idx = 0
-        for (y in 0 until INPUT_SIZE) {
-            for (x in 0 until INPUT_SIZE) {
-                val pixel = intVals[idx++]
-                buffer.putFloat(((pixel shr 16 and 0xFF) - 127.5f) / 128f)
-                buffer.putFloat(((pixel shr 8  and 0xFF) - 127.5f) / 128f)
-                buffer.putFloat(((pixel       and 0xFF) - 127.5f) / 128f)
-            }
+        // 5) Convert to normalized FloatArray (0..1 for uint8 quant, or -1..1 for int8 quant)
+        val floatArray = FloatArray(inputSize * inputSize * 3)
+        val intVals = IntArray(inputSize * inputSize)
+        resized.getPixels(intVals, 0, inputSize, 0, 0, inputSize, inputSize)
+        for (i in intVals.indices) {
+            val pixel = intVals[i]
+            // Normalize to [0,1] for uint8 quantized model
+            floatArray[i * 3 + 0] = ((pixel shr 16 and 0xFF) / 255.0f)
+            floatArray[i * 3 + 1] = ((pixel shr 8 and 0xFF) / 255.0f)
+            floatArray[i * 3 + 2] = ((pixel and 0xFF) / 255.0f)
         }
-        buffer.rewind()
-        return buffer
+        return floatArray
     }
 
     /** Extract face bitmap from image with rotation and cropping */

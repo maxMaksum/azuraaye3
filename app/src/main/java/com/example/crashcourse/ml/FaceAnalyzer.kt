@@ -70,12 +70,12 @@ class FaceAnalyzer (
 
                     for (face in faces) {
                         // Crop + preprocess + infer embedding
-                        val buffer = BitmapUtils.preprocessFace(
+                        val floatArray = BitmapUtils.preprocessFace(
                             image       = mediaImage,
                             boundingBox = face.boundingBox,
                             rotation    = rotation
                         )
-                        val embedding = FaceRecognizer.recognizeFace(buffer)
+                        val embedding = FaceRecognizer.recognizeFace(floatArray)
                         onFaceEmbedding(face.boundingBox, embedding)
                     }
                     Log.d("FaceAnalyzer", "Detected ${faces.size} faces")

@@ -127,38 +127,30 @@ object PhotoProcessingUtils {
         // Resize to model input size
         val resizedBitmap = faceBitmap.scale(INPUT_SIZE, INPUT_SIZE)
 
-        // Convert to ByteBuffer format expected by the model
-        val buffer = bitmapToByteBuffer(resizedBitmap)
+        // Convert to normalized FloatArray for model input
+        val floatArray = bitmapToNormalizedFloatArray(resizedBitmap)
 
         // Generate embedding using FaceRecognizer
-        // In generateEmbeddingFromFaceBitmap, ensure TFLite model is quantized and interpreter uses NNAPI/GPU delegate for best performance.
-        return FaceRecognizer.recognizeFace(buffer)
+        return FaceRecognizer.recognizeFace(floatArray)
     }
 
     /**
-     * Convert bitmap to ByteBuffer for model input
+     * Convert bitmap to normalized FloatArray for model input
      * @param bitmap The bitmap to convert
-     * @return ByteBuffer ready for model inference
+     * @return FloatArray ready for model inference
      */
-    private fun bitmapToByteBuffer(bitmap: Bitmap): java.nio.ByteBuffer {
-        val buffer = java.nio.ByteBuffer.allocateDirect(INPUT_SIZE * INPUT_SIZE * 3 * 4)
-            .order(java.nio.ByteOrder.nativeOrder())
-
+    private fun bitmapToNormalizedFloatArray(bitmap: Bitmap): FloatArray {
+        val floatArray = FloatArray(INPUT_SIZE * INPUT_SIZE * 3)
         val intVals = IntArray(INPUT_SIZE * INPUT_SIZE)
         bitmap.getPixels(intVals, 0, INPUT_SIZE, 0, 0, INPUT_SIZE, INPUT_SIZE)
-
-        var idx = 0
-        for (y in 0 until INPUT_SIZE) {
-            for (x in 0 until INPUT_SIZE) {
-                val pixel = intVals[idx++]
-                // Normalize to [-1, 1] range
-                buffer.putFloat(((pixel shr 16 and 0xFF) - 127.5f) / 128f) // R
-                buffer.putFloat(((pixel shr 8  and 0xFF) - 127.5f) / 128f) // G
-                buffer.putFloat(((pixel       and 0xFF) - 127.5f) / 128f) // B
-            }
+        for (i in intVals.indices) {
+            val pixel = intVals[i]
+            // Normalize to [0,1] for uint8 quantized model
+            floatArray[i * 3 + 0] = ((pixel shr 16 and 0xFF) / 255.0f)
+            floatArray[i * 3 + 1] = ((pixel shr 8 and 0xFF) / 255.0f)
+            floatArray[i * 3 + 2] = ((pixel and 0xFF) / 255.0f)
         }
-        buffer.rewind()
-        return buffer
+        return floatArray
     }
 
     /**
