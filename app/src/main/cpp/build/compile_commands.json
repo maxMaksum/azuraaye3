@@ -1,0 +1,812 @@
+[
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_add.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_add.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_add_dir.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add_dir.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add_dir.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_add_dir.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_add_entry.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add_entry.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_add_entry.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_add_entry.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_algorithm_deflate.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_deflate.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_deflate.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_algorithm_deflate.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_buffer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_buffer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_buffer.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_buffer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_close.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_close.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_close.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_close.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_delete.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_delete.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_delete.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_delete.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_dir_add.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_dir_add.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_dir_add.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_dir_add.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_dirent.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_dirent.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_dirent.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_dirent.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_discard.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_discard.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_discard.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_discard.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_entry.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_entry.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_entry.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_entry.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error_clear.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_clear.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_clear.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error_clear.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error_get.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_get.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_get.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error_get.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error_get_sys_type.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_get_sys_type.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_get_sys_type.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error_get_sys_type.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error_strerror.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_strerror.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_strerror.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error_strerror.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_error_to_str.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_to_str.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_error_to_str.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_error_to_str.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_extra_field.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_extra_field.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_extra_field.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_extra_field.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_extra_field_api.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_extra_field_api.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_extra_field_api.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_extra_field_api.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fclose.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fclose.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fclose.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fclose.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fdopen.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fdopen.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fdopen.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fdopen.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_add.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_add.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_add.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_add.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_error_clear.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_error_clear.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_error_clear.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_error_clear.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_error_get.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_error_get.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_error_get.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_error_get.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_get_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_get_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_get_external_attributes.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_external_attributes.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_external_attributes.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_get_external_attributes.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_get_offset.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_offset.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_get_offset.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_get_offset.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_rename.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_rename.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_rename.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_rename.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_replace.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_replace.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_replace.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_replace.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_set_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_set_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_set_encryption.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_encryption.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_encryption.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_set_encryption.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_set_external_attributes.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_external_attributes.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_external_attributes.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_set_external_attributes.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_set_mtime.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_mtime.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_set_mtime.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_set_mtime.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_file_strerror.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_strerror.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_file_strerror.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_file_strerror.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fopen.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fopen.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fopen_encrypted.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_encrypted.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_encrypted.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fopen_encrypted.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fopen_index.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_index.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_index.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fopen_index.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fopen_index_encrypted.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_index_encrypted.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fopen_index_encrypted.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fopen_index_encrypted.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fread.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fread.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fread.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fread.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_fseek.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fseek.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_fseek.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_fseek.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_ftell.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_ftell.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_ftell.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_ftell.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_archive_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_archive_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_archive_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_archive_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_archive_flag.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_archive_flag.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_archive_flag.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_archive_flag.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_encryption_implementation.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_encryption_implementation.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_encryption_implementation.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_encryption_implementation.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_file_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_file_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_file_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_file_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_name.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_name.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_name.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_name.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_num_entries.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_num_entries.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_num_entries.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_num_entries.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_get_num_files.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_num_files.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_get_num_files.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_get_num_files.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_hash.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_hash.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_hash.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_hash.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_io_util.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_io_util.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_io_util.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_io_util.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_libzip_version.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_libzip_version.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_libzip_version.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_libzip_version.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_memdup.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_memdup.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_memdup.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_memdup.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_name_locate.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_name_locate.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_name_locate.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_name_locate.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_new.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_new.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_new.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_new.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_open.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_open.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_open.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_open.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_pkware.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_pkware.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_pkware.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_pkware.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_progress.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_progress.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_progress.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_progress.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_realloc.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_realloc.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_realloc.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_realloc.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_rename.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_rename.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_rename.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_rename.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_replace.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_replace.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_replace.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_replace.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_archive_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_archive_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_archive_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_archive_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_archive_flag.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_archive_flag.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_archive_flag.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_archive_flag.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_default_password.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_default_password.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_default_password.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_default_password.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_file_comment.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_file_comment.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_file_comment.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_file_comment.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_file_compression.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_file_compression.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_file_compression.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_file_compression.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_set_name.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_name.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_set_name.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_set_name.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_accept_empty.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_accept_empty.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_accept_empty.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_accept_empty.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_begin_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_begin_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_begin_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_begin_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_begin_write_cloning.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_begin_write_cloning.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_begin_write_cloning.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_begin_write_cloning.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_buffer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_buffer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_buffer.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_buffer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_call.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_call.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_call.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_call.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_close.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_close.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_close.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_close.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_commit_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_commit_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_commit_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_commit_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_compress.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_compress.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_compress.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_compress.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_crc.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_crc.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_crc.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_crc.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_error.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_error.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_error.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_error.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_file_common.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_common.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_common.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_file_common.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_file_stdio.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_stdio.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_stdio.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_file_stdio.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_free.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_free.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_free.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_free.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_function.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_function.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_function.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_function.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_get_dostime.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_get_dostime.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_get_dostime.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_get_dostime.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_get_file_attributes.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_get_file_attributes.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_get_file_attributes.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_get_file_attributes.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_is_deleted.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_is_deleted.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_is_deleted.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_is_deleted.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_layered.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_layered.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_layered.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_layered.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_open.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_open.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_open.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_open.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_pass_to_lower_layer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pass_to_lower_layer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pass_to_lower_layer.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_pass_to_lower_layer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_pkware_decode.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pkware_decode.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pkware_decode.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_pkware_decode.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_pkware_encode.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pkware_encode.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_pkware_encode.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_pkware_encode.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_read.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_read.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_read.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_read.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_remove.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_remove.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_remove.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_remove.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_rollback_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_rollback_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_rollback_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_rollback_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_seek.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_seek.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_seek.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_seek.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_seek_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_seek_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_seek_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_seek_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_stat.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_stat.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_stat.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_stat.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_supports.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_supports.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_supports.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_supports.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_tell.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_tell.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_tell.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_tell.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_tell_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_tell_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_tell_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_tell_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_window.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_window.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_window.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_window.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_write.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_write.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_write.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_write.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_zip.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_zip.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_zip.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_zip.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_zip_new.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_zip_new.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_zip_new.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_zip_new.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_stat.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_stat.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_stat_index.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat_index.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat_index.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_stat_index.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_stat_init.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat_init.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_stat_init.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_stat_init.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_strerror.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_strerror.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_strerror.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_strerror.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_string.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_string.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_string.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_string.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_unchange.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_unchange.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_unchange_all.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_all.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_all.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_unchange_all.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_unchange_archive.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_archive.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_archive.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_unchange_archive.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_unchange_data.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_data.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_unchange_data.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_unchange_data.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_utf-8.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_utf-8.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_utf-8.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_utf-8.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_err_str.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib/zip_err_str.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib/zip_err_str.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_err_str.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_file_stdio_named.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_stdio_named.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_file_stdio_named.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_file_stdio_named.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_random_unix.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_random_unix.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_random_unix.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_random_unix.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_algorithm_xz.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_xz.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_xz.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_algorithm_xz.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_algorithm_zstd.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_zstd.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_algorithm_zstd.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_algorithm_zstd.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_crypto_openssl.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_crypto_openssl.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_crypto_openssl.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_crypto_openssl.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_winzip_aes.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_winzip_aes.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_winzip_aes.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_winzip_aes.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_winzip_aes_decode.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_winzip_aes_decode.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_winzip_aes_decode.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_winzip_aes_decode.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib",
+  "command": "/usr/bin/cc -Dzip_EXPORTS -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -fPIC -fvisibility=hidden -o CMakeFiles/zip.dir/zip_source_winzip_aes_encode.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_winzip_aes_encode.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib/zip_source_winzip_aes_encode.c",
+  "output": "external/libzip/lib/CMakeFiles/zip.dir/zip_source_winzip_aes_encode.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/src",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zipcmp.dir/zipcmp.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/zipcmp.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/zipcmp.c",
+  "output": "external/libzip/src/CMakeFiles/zipcmp.dir/zipcmp.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/src",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zipcmp.dir/diff_output.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/diff_output.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/diff_output.c",
+  "output": "external/libzip/src/CMakeFiles/zipcmp.dir/diff_output.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/src",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zipmerge.dir/zipmerge.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/zipmerge.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/zipmerge.c",
+  "output": "external/libzip/src/CMakeFiles/zipmerge.dir/zipmerge.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/src",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/ziptool.dir/ziptool.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/ziptool.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/src/ziptool.c",
+  "output": "external/libzip/src/CMakeFiles/ziptool.dir/ziptool.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_read_file_fuzzer.dir/zip_read_file_fuzzer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_read_file_fuzzer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_read_file_fuzzer.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_read_file_fuzzer.dir/zip_read_file_fuzzer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_read_file_fuzzer.dir/fuzz_main.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_read_file_fuzzer.dir/fuzz_main.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_read_fuzzer.dir/zip_read_fuzzer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_read_fuzzer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_read_fuzzer.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_read_fuzzer.dir/zip_read_fuzzer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_read_fuzzer.dir/fuzz_main.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_read_fuzzer.dir/fuzz_main.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_write_encrypt_aes256_file_fuzzer.dir/zip_write_encrypt_aes256_file_fuzzer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_write_encrypt_aes256_file_fuzzer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_write_encrypt_aes256_file_fuzzer.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_write_encrypt_aes256_file_fuzzer.dir/zip_write_encrypt_aes256_file_fuzzer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_write_encrypt_aes256_file_fuzzer.dir/fuzz_main.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_write_encrypt_aes256_file_fuzzer.dir/fuzz_main.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_write_encrypt_pkware_file_fuzzer.dir/zip_write_encrypt_pkware_file_fuzzer.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_write_encrypt_pkware_file_fuzzer.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/zip_write_encrypt_pkware_file_fuzzer.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_write_encrypt_pkware_file_fuzzer.dir/zip_write_encrypt_pkware_file_fuzzer.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/ossfuzz",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/zip_write_encrypt_pkware_file_fuzzer.dir/fuzz_main.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/ossfuzz/fuzz_main.c",
+  "output": "external/libzip/ossfuzz/CMakeFiles/zip_write_encrypt_pkware_file_fuzzer.dir/fuzz_main.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/examples",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/add-compressed-data.dir/add-compressed-data.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/add-compressed-data.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/add-compressed-data.c",
+  "output": "external/libzip/examples/CMakeFiles/add-compressed-data.dir/add-compressed-data.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/examples",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/autoclose-archive.dir/autoclose-archive.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/autoclose-archive.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/autoclose-archive.c",
+  "output": "external/libzip/examples/CMakeFiles/autoclose-archive.dir/autoclose-archive.c.o"
+},
+{
+  "directory": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/examples",
+  "command": "/usr/bin/cc  -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/sha256 -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/BEFORE -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/lib -I/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip -O2 -s -fvisibility=hidden -o CMakeFiles/in-memory.dir/in-memory.c.o -c /home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/in-memory.c",
+  "file": "/home/max/Downloads/azuraaye2-main/app/src/main/cpp/external/libzip/examples/in-memory.c",
+  "output": "external/libzip/examples/CMakeFiles/in-memory.dir/in-memory.c.o"
+}
+]
