@@ -295,6 +295,12 @@ fun BulkRegistrationScreen(
                 Text("Successful: ${bulkState.successCount}", style = MaterialTheme.typography.bodyMedium)
                 Text("Duplicates: ${bulkState.duplicateCount}", style = MaterialTheme.typography.bodyMedium)
                 Text("Errors: ${bulkState.errorCount}", style = MaterialTheme.typography.bodyMedium)
+
+                // Trigger refresh so FaceListScreen shows new faces
+                LaunchedEffect(bulkState.results) {
+                    com.example.crashcourse.db.FaceCache.refresh(context)
+                    faceViewModel.reloadFaces(context)
+                }
             }
         }
     }

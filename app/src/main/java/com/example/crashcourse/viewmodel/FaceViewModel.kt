@@ -286,4 +286,16 @@ class FaceViewModel(application: Application) : AndroidViewModel(application) {
             onDuplicate = onDuplicate
         )
     }
+
+    /**
+     * Force reload all faces from database and update faceList StateFlow.
+     * Call this after batch import or manual DB changes.
+     */
+    fun reloadFaces(context: android.content.Context) {
+        viewModelScope.launch(Dispatchers.IO) {
+            FaceCache.refresh(context)
+            // The faceList StateFlow is backed by Room's Flow, so updating DB will auto-update faceList.
+            // This function ensures cache is also refreshed for duplicate checks, etc.
+        }
+    }
 }
