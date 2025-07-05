@@ -25,16 +25,18 @@ fun DashboardScreen(
             })
         }
     ) { padding ->
-        when (role) {
-            "admin" -> AdminDashboard(
-                name = name,
-                onManageUsers = { onManageUsers?.invoke() },
-                onManageFaces = { onManageFaces?.invoke() },
-                onGoToMain = onGoToMain
-            )
-            "guru" -> TeacherDashboard(name, onGoToMain)
-            "siswa" -> UserDashboard(name, onGoToMain)
-            else -> Text("Unknown role")
+        Box(modifier = Modifier.padding(padding)) {
+            when (role) {
+                "admin" -> AdminDashboard(
+                    name = name,
+                    onManageUsers = { onManageUsers?.invoke() },
+                    onManageFaces = { onManageFaces?.invoke() },
+                    onGoToMain = onGoToMain
+                )
+                "guru" -> TeacherDashboard(name, onGoToMain)
+                "siswa" -> UserDashboard(name, onGoToMain)
+                else -> Text("Unknown role")
+            }
         }
     }
 }
