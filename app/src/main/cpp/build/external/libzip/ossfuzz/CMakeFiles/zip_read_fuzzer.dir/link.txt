@@ -1,1 +1,0 @@
-/usr/bin/cc -O2 -s -fvisibility=hidden CMakeFiles/zip_read_fuzzer.dir/zip_read_fuzzer.c.o CMakeFiles/zip_read_fuzzer.dir/fuzz_main.c.o -o zip_read_fuzzer  -Wl,-rpath,/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib ../lib/libzip.so.5.5 

@@ -16,7 +16,7 @@ namespace {
 extern "C" {
 
 JNIEXPORT jboolean JNICALL
-Java_com_example_crashcourse_nativebridge_FaceBridge_initializeNative(
+Java_com_azura_azuratime_nativebridge_FaceBridge_initializeNative(
     JNIEnv *env, jclass clazz, jstring modelPath) {
     LOGD("initializeNative() called");
     const char *pathStr = env->GetStringUTFChars(modelPath, nullptr);
@@ -33,7 +33,7 @@ Java_com_example_crashcourse_nativebridge_FaceBridge_initializeNative(
 }
 
 JNIEXPORT jfloatArray JNICALL
-Java_com_example_crashcourse_nativebridge_FaceBridge_recognizeFace___3F(
+Java_com_azura_azuratime_nativebridge_FaceBridge_recognizeFace___3F(
     JNIEnv *env, jclass clazz, jfloatArray input) {
     if (!g_modelInitialized) {
         LOGE("recognizeFace() called before model initialized!");
@@ -55,7 +55,7 @@ Java_com_example_crashcourse_nativebridge_FaceBridge_recognizeFace___3F(
 }
 
 JNIEXPORT void JNICALL
-Java_com_example_crashcourse_nativebridge_FaceBridge_closeNative(
+Java_com_azura_azuratime_nativebridge_FaceBridge_closeNative(
     JNIEnv *env, jclass clazz) {
     LOGD("closeNative() called");
     // TODO: Free model resources here
@@ -64,8 +64,8 @@ Java_com_example_crashcourse_nativebridge_FaceBridge_closeNative(
 }
 
 JNIEXPORT jboolean JNICALL
-Java_com_example_crashcourse_util_SecurityBridge_verifyApkHash(
-        JNIEnv *env, jobject thiz, jstring apk_path, jstring target_entry, jstring expected_hash) {
+Java_com_azura_azuratime_util_SecurityBridge_verifyApkHash(
+    JNIEnv *env, jclass clazz, jstring apk_path, jstring target_entry, jstring expected_hash) {
     const char* apkPath = env->GetStringUTFChars(apk_path, nullptr);
     const char* entryName = env->GetStringUTFChars(target_entry, nullptr);
     const char* expected = env->GetStringUTFChars(expected_hash, nullptr);

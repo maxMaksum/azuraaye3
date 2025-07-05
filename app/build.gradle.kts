@@ -9,11 +9,11 @@ ksp {
 }
 
 android {
-    namespace = "com.example.crashcourse"
+    namespace = "com.azura.azuratime"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.crashcourse"
+        applicationId = "com.azura.azuratime"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

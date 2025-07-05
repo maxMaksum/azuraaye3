@@ -1,1 +1,5 @@
-{}
+{
+    "files.watcherExclude": {
+        "**/app/build/**": true
+    }
+}

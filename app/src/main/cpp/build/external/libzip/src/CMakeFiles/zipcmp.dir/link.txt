@@ -1,1 +1,0 @@
-/usr/bin/cc -O2 -s -fvisibility=hidden CMakeFiles/zipcmp.dir/zipcmp.c.o CMakeFiles/zipcmp.dir/diff_output.c.o -o zipcmp  -Wl,-rpath,/home/max/Downloads/azuraaye2-main/app/src/main/cpp/build/external/libzip/lib: ../lib/libzip.so.5.5 /usr/lib/x86_64-linux-gnu/libz.so 

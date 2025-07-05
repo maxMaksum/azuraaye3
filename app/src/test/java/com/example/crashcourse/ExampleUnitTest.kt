@@ -1,4 +1,4 @@
-package com.example.crashcourse
+package com.azura.azuratime
 
 import org.junit.Test
 
